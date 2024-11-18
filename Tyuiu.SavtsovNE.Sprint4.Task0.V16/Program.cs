@@ -12,7 +12,7 @@ namespace Tyuiu.SavtsovNE.Sprint4.Task0.V16
             Console.WriteLine("* Тема: Одноименные массивы (статический ввод).                 *");
             Console.WriteLine("* Задание #0                                                    *");
             Console.WriteLine("* Вариант #16                                                   *");
-            Console.WriteLine("* Савцов Никита Евгеньевич | ИБКСБ - 24 - 1                     *");
+            Console.WriteLine("* Савцов Никита Евгеньевич | ИБКСБ - 24 - 1                      *");
             Console.WriteLine("*****************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                      *");
             Console.WriteLine("* Написать программу, которая считает произведение четных       *");
